@@ -9,8 +9,6 @@
     "cors": "latest",
     "dotenv": "latest",
     "express": "latest",
-    "mongoose": "latest",
-    "jsonwebtoken": "latest",
-    "bcryptjs": "latest"
+    "mongoose": "latest"
   }
 }
